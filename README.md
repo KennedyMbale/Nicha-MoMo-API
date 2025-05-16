@@ -47,7 +47,7 @@ refund_id = disbursements.refund_transaction(payment_id, 10.50)
 # KYC Verification
 from nicha_momo import KYC
 kyc = KYC(auth)
-basic_info = kyc.get_basic_info("256771234567")
+basic_info = kyc.get_basic_info("260XXXXXXXXX")
 
 
 try:

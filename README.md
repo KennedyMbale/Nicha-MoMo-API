@@ -19,7 +19,7 @@ pip install -r requirements.txt
 Configuration
 Create .env file:
 
-ini
+init
 MOMO_BASE_URL=https://sandbox.momodeveloper.mtn.com
 COLLECTION_KEY=your_collection_key
 DISBURSEMENT_KEY=your_disbursement_key
